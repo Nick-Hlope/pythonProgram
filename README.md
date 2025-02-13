@@ -7,3 +7,6 @@ This is the **README.md file**, which contains all the details and prerequisites
 
 2. Then install the python extension for Visual Studio code
 ![python extension](https://github.com/user-attachments/assets/f780a94f-282e-48f4-97db-060d6a4db590)
+
+3. Code the program, using the correct syntax
+![code for the program](https://github.com/user-attachments/assets/2037080a-a893-4dca-92ca-745eb7e090ae)
